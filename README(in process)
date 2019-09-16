@@ -27,19 +27,103 @@ HTML, находит специальные символы, теги и испо
 КОД
 
 <!DOCTYPE html>
-<html lang="ru">
-  <head>
-    <meta charset="utf-8">
-    <title>ЖК "ОЛИМПИЙСКИЙ"</title>
-  </head>
-  <body>
-    <article class="post">
-      <h1>ЖК "ОЛИМПИЙСКИЙ"</h1>
-      <figure class="post-item">
-        <img src="ZhK1.jpg" alt="ОЛИМПИЙСКИЙ">
-        <figcaption>ЖК "ОЛИМПИЙСКИЙ"</figcaption>
-      </figure>
-    </article>
-  </body>
-</html>
 
+<html>
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<base href="http://www.olimpiiski.com/" />
+
+<title>ЖК "Олимпийский"</title>
+
+<meta name="description" content="Описание страницы" />
+
+<meta name="keywords" content="Ключевые слова" />
+
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="page">
+
+<header>
+
+<a href="/" title="" class="logo"><img src="ZhK1.jpg" alt="ЖК "Олимпийский"" /></a>
+
+<div class="phone">(050) 518-94-50</div>
+
+<nav>
+
+<ul id="top_menu">
+
+<li><a href="project.html">О проекте</a></li>
+
+<li><a href="flats.html">Выбор квартиры</a></li>
+
+<li><a href="credits.html">Кредит и рассрочка</a></li>
+
+<li><a href="contacts.html">Контакты</a></li>
+
+</ul>
+
+</nav>
+
+<div class="ZhK1.jpg">
+
+<img src="ZhK1.jpg" alt="ЖК "Олимпийский"" />
+
+</div>
+
+</header>
+
+<section id="content">
+
+<h1>Жить здорово</h1>
+<h2>в жилом комплексе</h2>
+<h3>«Олимпийский»</h3>
+<h4>                                                         </h4>
+<h5>Квартиры комфорт-класса в новом микрорайоне города Харьков</h5>
+
+
+
+
+<img src="ZhK1.jpg" alt="Картинка" class="float-right" />
+
+<p>Новый образ жизни,</p> 
+<p>который можно себе</p>
+<p>позволить</p>
+
+<p>Жить здорово, когда детские сады и школы </p>
+<p>рядом с домом. Жить здорово, когда есть парк и </p>
+<p>спортивные секции в шаговой доступности.</p>
+
+<p>Жить здорово, когда квартира с продуманной </p>
+<p>планировкой и отделкой, а способы покупки </p>
+<p>выгодные и удобные.</p>
+
+
+<p>В жилом комплексе «Олимпийский» жить </p>
+<p>здорово!</p>
+
+
+
+ 
+
+</section>
+
+<footer>
+
+<a href="http://www.olimpiiski.com/" title="ЖК "Олимпийский"">ЖК "Олимпийский"</a><br />Все права защищены
+
+</footer>
+
+</div>
+
+</body>
+
+</html>
